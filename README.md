@@ -1,6 +1,6 @@
 ![akthe-at's GitHub stats](https://github-readme-stats.vercel.app/api?username=akthe-at&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akthe-at&layout=compact&theme=tokyonight)](https://github.com/akthe-at/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akthe-at&layout=compact&theme=tokyonight&hide=html,powershell)
 <!--
 **akthe-at/akthe-at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
